@@ -5,11 +5,11 @@
  - 只支持请求静态网页;
 --------
 #### 安装
-> git clone git@github.com:Jastry/lsq.git
-
-> make
-
-> ./server ip port:wwwroot/index.html
+```bash
+git clone git@github.com:Jastry/lsq.git`
+make
+./server ip port
+```
 --------
 #### 改进
-......
+
