@@ -6,7 +6,9 @@
 --------
 #### 安装
 > git clone git@github.com:Jastry/lsq.git
+
 > make
+
 > ./server ip port:wwwroot/index.html
 --------
 #### 改进
